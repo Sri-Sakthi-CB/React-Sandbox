@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Using UseState() Hook, Counter Implementation is Done!!!
 
-This helps me to practice and understand the working of useState() Hook.
+This helped me to practice and understand the working of useState() Hook.
 
 ## ScreenShots: 
 
