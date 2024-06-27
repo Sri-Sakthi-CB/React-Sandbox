@@ -5,7 +5,7 @@ function App(){
     useEffect(() => {
       console.log("Hello");
       document.title = `Increment (${value})`;
-    });
+    },[value]);
 
     return(
       <>
