@@ -11,7 +11,7 @@ function App(){
     //   .then((d) => setData(d));
     // })
 
-    const [data] = useFetch('https://jsonplaceholder.typicode.com/todos/1');
+    const [data] = useFetch('https://jsonplaceholder.typicode.com/todos');
 
     return(
       <>
